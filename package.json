@@ -1,0 +1,27 @@
+{
+  "name": "webpack-exp1",
+  "version": "1.0.0",
+  "description": "curso de webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack index.js bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidduran94/webpack-experiments.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "David Duran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidduran94/webpack-experiments/issues"
+  },
+  "homepage": "https://github.com/davidduran94/webpack-experiments#readme",
+  "devDependencies": {
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
